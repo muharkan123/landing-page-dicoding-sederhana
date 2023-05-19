@@ -1,0 +1,315 @@
+.top-header {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+}
+
+.top-header2 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  margin-left: 6px;
+}
+
+a.ling {
+  text-decoration: none;
+  color: rgb(0, 132, 255);
+}
+
+a.ling:hover {
+  color: rgb(67, 150, 228);
+}
+
+.tabel {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+nav .table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Quicksand", sans-serif;
+  margin-top: 25px;
+  font-weight: 600;
+}
+
+.left {
+  margin-right: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.left input[type="text"] {
+  justify-content: center;
+}
+
+.left img {
+  margin-right: 60px;
+}
+
+.mid {
+  margin-right: 80px;
+}
+
+.mid a {
+  margin-right: 50px;
+  text-decoration: none;
+  color: black;
+  transition-duration: 0.3s;
+}
+
+.mid a:hover {
+  color: rgb(121, 121, 121);
+}
+
+.inp {
+  height: 35px;
+  width: 220px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  border-color: #e4e4e7;
+  border: 1px solid #ced4da;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  border-radius: 3px;
+}
+
+.left {
+  margin-right: 150px;
+}
+
+.right a {
+  text-decoration: none;
+  color: black;
+  transition-duration: 0.3s;
+}
+
+.right a:hover {
+  color: rgb(121, 121, 121);
+}
+
+.container {
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.container .column {
+  width: 100%;
+}
+
+.container .column h1 {
+  font-family: "Quicksand", sans-serif;
+  color: #3d3d3d;
+  font-weight: 500;
+}
+
+.container .column h4 {
+  font-family: "Quicksand", sans-serif;
+  color: #3d3d3d;
+  font-weight: 400;
+}
+
+.tombol1 {
+  margin-top: 20px;
+  height: 40px;
+  width: 170px;
+  border: 0px solid;
+  background-color: #2d3e50;
+  color: white;
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
+}
+
+.tombol1:hover {
+  background-color: #15293f;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.top-header1 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  font-size: 25px;
+  color: #646464;
+}
+
+.logos {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  gap: 10px;
+  text-align: center;
+}
+
+.container .column1 {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.container .column1 h1 {
+  font-family: "Quicksand", sans-serif;
+  color: #3d3d3d;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.container .column1 h4 {
+  font-family: "Quicksand", sans-serif;
+  color: #3d3d3d;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.row {
+  display: flex;
+  border: 0px solid;
+  box-shadow: 7px 6px 23px -2px rgba(0, 0, 0, 0.44);
+  -webkit-box-shadow: 7px 6px 23px -2px rgba(0, 0, 0, 0.44);
+  -moz-box-shadow: 7px 6px 23px -2px rgba(0, 0, 0, 0.44);
+}
+
+.container .column1 .card .row img {
+  padding: 10px;
+}
+
+.a {
+  width: 600px;
+}
+
+.desc {
+  display: block;
+  padding-left: 20px;
+}
+
+.top-headerr {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  margin-top: 70px;
+  margin-bottom: 5px;
+  font-size: 25px;
+  color: #646464;
+}
+
+.top-headerr2 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+  margin-bottom: 30px;
+  font-size: 15px;
+  color: #646464;
+  text-align: center;
+}
+
+.tulisan {
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
+  font-size: 10px;
+  margin-left: 10%;
+}
+
+.gambar {
+  margin-right: 10%;
+}
+
+.boxes {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  box-shadow: 2px 3px 24px -1px rgba(0, 0, 0, 0.46);
+  -webkit-box-shadow: 2px 3px 24px -1px rgba(0, 0, 0, 0.46);
+  -moz-box-shadow: 2px 3px 24px -1px rgba(0, 0, 0, 0.46);
+}
+
+/* footer */
+
+footer {
+  margin-top: 50px;
+  padding-left: 100px;
+  font-family: "Quicksand", sans-serif;
+  left: 0;
+  bottom: 0;
+}
+
+.ft-1 {
+  padding-top: 70px;
+}
+
+.ft-1 h4 {
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.ft-2 {
+  padding-left: 150px;
+}
+
+.ft-2 h1 {
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.ft-2 a {
+  text-decoration: none;
+  color: rgb(51, 51, 51);
+}
+
+.ft-2 a:hover {
+  text-decoration: none;
+  color: rgb(121, 121, 121);
+}
+
+.ft-3 {
+  padding-left: 120px;
+  padding-top: 45px;
+}
+
+.ft-3 a {
+  display: block;
+  text-decoration: none;
+  color: rgb(51, 51, 51);
+}
+
+.ft-3 a:hover {
+  color: rgb(121, 121, 121);
+  text-decoration: underline;
+}
+
+.ft-4 {
+  padding-left: 95px;
+  position: relative; /* Menggunakan posisi relatif untuk menerapkan top */
+  top: -18px;
+}
+
+.ft-4 a {
+  display: block;
+  text-decoration: none;
+  color: rgb(51, 51, 51);
+}
+
+.ft-4  a:hover {
+  color: rgb(121, 121, 121);
+  text-decoration: underline;
+}
+
+.footer-bwh {
+  font-family: "Quicksand", sans-serif;
+  margin-top: 40px;
+  padding: 5px;
+  width: 100%;
+  background-color: rgb(201, 201, 201);
+  color: black;
+  display: flex;
+}
+
+.ft-b{
+  margin-left: 7%;
+  font-size: 12px;
+}
